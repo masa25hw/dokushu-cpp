@@ -23,3 +23,4 @@ int main()
     delete ptr; // コメントアウトするとメモリリークが発発生する
     std::cout << "解放後" << std::endl;
 }
+

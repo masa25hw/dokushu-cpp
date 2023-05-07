@@ -1,4 +1,5 @@
 {
+    "cmake.cmakePath": "/usr/bin/cmake",
     "files.associations": {
         "iostream": "cpp",
         "array": "cpp",
